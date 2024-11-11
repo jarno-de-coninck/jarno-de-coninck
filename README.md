@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m Jarno, a software developer always sharpening my programming skills.<br><br>🔭 Currently working on Pasimo, a student check-in system for my exam project.<br>🌱 Deep into learning LUAU and Java right now.<br>⚡ Fun fact: I’m a gym enthusiast!
+Hello, I’m Jarno, a software developer always sharpening my programming skills.<br><br>🔭 Currently working on Pasimo, a student check-in system for my exam project.<br>🌱 Deep into learning LUAU and Java right now.<br>⚡ Fun fact: I like going to the gym!
 
 
 ## 🌐 Socials:
